@@ -4,6 +4,7 @@
     --text: white;
     --textSoft: #e5e5e5;
     --btn: #3673fd;
+    
   }
   * {
     margin: 0;
@@ -23,7 +24,7 @@ body {
   }
 
   .container{
-    background-color: rebeccapurple;
+    /* background-color: rebeccapurple; */
     width: 1536px;
     margin: auto;
     padding-left: 50px;
